@@ -22,7 +22,7 @@
 class Fundamentos{
 
     public function cubo($n){
-        return $n**4;
+        return $n**3;
     }
 
     public function ciudad($c){
